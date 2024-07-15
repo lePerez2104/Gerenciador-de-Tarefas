@@ -1,4 +1,4 @@
-# Roteiro-de-Viagens
+# Gerenciador de Tarefas
 Este projeto foi desenvolvido durante a trilha NLW Journey FullStack. Consiste em um gerenciador de tarefas que permite aos usuários adicionar, visualizar e gerenciar as atividades planejadas para uma viagem e possui como objetivo ajudar os usuários a organizarem melhor suas viagens, facilitando a organização e planejamento.
 
 
